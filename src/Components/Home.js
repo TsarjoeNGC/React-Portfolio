@@ -1,3 +1,4 @@
+import pdf from '../Images/Joseph Akah.pdf'
 function Home (){
     return (
         <section class="bgimage text-center p-5" id="home">
@@ -45,13 +46,18 @@ function Home (){
                                 techniques on other web videos and training apps
                             </p>
                         </div>
-
+                        <div className="resume">
+                            <p><a href={pdf} target='_blank'> 
+                                My Resume</a></p>
+                        </div>
+ 
 
                     </div>
                     </section>
 
             </div>
             </div>
+
     </section>
 
     );
