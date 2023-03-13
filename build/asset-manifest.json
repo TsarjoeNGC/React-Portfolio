@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86062d47.css",
+    "main.js": "/static/js/main.05bbc4fa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/me.JPG": "/static/media/me.0014905a5012ba72a40c.JPG",
+    "static/media/Joseph Akah.pdf": "/static/media/Joseph Akah.2e2fc46e185ed2662503.pdf",
+    "index.html": "/index.html",
+    "main.86062d47.css.map": "/static/css/main.86062d47.css.map",
+    "main.05bbc4fa.js.map": "/static/js/main.05bbc4fa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86062d47.css",
+    "static/js/main.05bbc4fa.js"
+  ]
+}
