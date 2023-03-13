@@ -22,6 +22,10 @@ function Contact (){
 
             </div>
         </div>
+        <p className="contact">Please feel free to contact me at 
+            <span> josephakah@live.co.uk </span> 
+</p>
+
     </section>
 
 

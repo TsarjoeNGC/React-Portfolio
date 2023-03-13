@@ -5,9 +5,9 @@ function Home (){
         <div class="container-fluid">
             <div class="row">
                 <div class=" col-md-6 hero-text">
-                    <h2 class="hero_title">Hi, It's me Joseph</h2>
+                    <h2 class="hero_title"> Welcome Portfolio</h2>
                     <div class="banner">
-                        <img src={require("../Images/me.JPG")} alt="" height="300" width="300"
+                        <img src={require("../Images/new j pic.jpeg")} alt="" height="250" width="250"
                             class="rounded-circle"></img>
                     </div>
                 </div>
@@ -32,9 +32,9 @@ function Home (){
                             </div>
                             <div class="col-md-6">
                                 <ul>
-                                    <li>learning: Front end Web Devh</li>
+                                    <li>Learning: Front-end Web development</li>
                                     <li>Teacher: Andrew Hoang</li>
-                                    <li>Occupation: Web Developer</li>
+                                    <li>Institution: EDX</li>
 
                                 </ul>
                             </div>
